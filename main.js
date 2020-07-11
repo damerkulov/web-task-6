@@ -171,7 +171,7 @@ function drawField() {
 }
 
 function setup() {
-	img = loadImage("i.jpg");
+	img = loadImage("https://sun9-65.userapi.com/c846220/v846220459/1f08bf/QkrPLEl2qgg.jpg");
 	cnv = createCanvas(windowWidth, windowHeight);
 	
 	cnv.mousePressed(createFigure);
